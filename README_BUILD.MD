@@ -22,7 +22,7 @@ understand the fundamentals, this is for you!
 - [x] 00:00 - Intro
 - [x] 00:23 - Topics we’ll cover
 - [x] 01:36 - Starting a new project
-- [ ] 04:38 - 3 Layer architecture
+- [x] 04:38 - 3 Layer architecture
 - [ ] 07:40 - Configuring endpoints
 - [ ] 09:40 - Creating a new module
 - [ ] 13:20 - Parsing URL params

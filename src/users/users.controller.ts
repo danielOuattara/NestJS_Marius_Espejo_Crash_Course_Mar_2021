@@ -12,6 +12,7 @@ import { UsersService } from './users.service';
 import { CreateUserDto } from './dto/create-user.dto';
 import { User } from './entities/user.entity';
 import {
+  ApiBadRequestResponse,
   ApiCreatedResponse,
   ApiNotFoundResponse,
   ApiOkResponse,
@@ -53,6 +54,7 @@ export class UsersController {
     description:
       'return an array of all users with the new created user among them',
   })
+  @ApiBadRequestResponse()
   @Post()
   createUser(@Body() body: CreateUserDto): User[] {
     return this.userService.createUser(body);

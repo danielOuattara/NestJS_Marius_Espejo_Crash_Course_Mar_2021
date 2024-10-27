@@ -35,9 +35,10 @@ understand the fundamentals, this is for you!
 - [x] 29:46 - Swagger OpenAPI Docs\
   `npm i @nestjs/swagger swagger-ui-express`
 - [x] 40:35 - Parsing query parameters
-- [ ] 45:30 - Exception and error handling
-- [ ] 50:11 - Pipes intro
-- [ ] 52:45 - Validation
+- [x] 45:30 - Exception and error handling
+- [x] 50:11 - Pipes intro\
+  `npm i class-validator class-transformer`
+- [x] 52:45 - Validation
 - [ ] 59:13 - Using the CLI to generate CRUD
 - [ ] 01:02:30 - Quick intro to Guards, Interceptors, Middleware
 - [ ] 01:04:25 - Conclusion

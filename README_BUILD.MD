@@ -34,7 +34,7 @@ understand the fundamentals, this is for you!
 - [x] 22:55 - Body parsing, DTOs, and entities
 - [x] 29:46 - Swagger OpenAPI Docs\
   `npm i @nestjs/swagger swagger-ui-express`
-- [ ] 40:35 - Parsing query parameters
+- [x] 40:35 - Parsing query parameters
 - [ ] 45:30 - Exception and error handling
 - [ ] 50:11 - Pipes intro
 - [ ] 52:45 - Validation

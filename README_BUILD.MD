@@ -30,9 +30,8 @@ understand the fundamentals, this is for you!
   `nest g service users`
   `nest g resource products`
 - [x] 13:20 - Parsing URL params
-- [ ] 16:18 - Dependency Injection
-- [ ] 22:55 - Body parsing, DTOs, and entities
-- [ ] 29:13 - Puppy (my dog playing)
+- [x] 16:18 - Dependency Injection
+- [x] 22:55 - Body parsing, DTOs, and entities
 - [ ] 29:46 - Swagger OpenAPI Docs
 - [ ] 40:35 - Parsing query parameters
 - [ ] 45:30 - Exception and error handling

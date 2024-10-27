@@ -39,7 +39,7 @@ understand the fundamentals, this is for you!
 - [x] 50:11 - Pipes intro\
   `npm i class-validator class-transformer`
 - [x] 52:45 - Validation
-- [ ] 59:13 - Using the CLI to generate CRUD
+- [x] 59:13 - Using the CLI to generate CRUD
 - [ ] 01:02:30 - Quick intro to Guards, Interceptors, Middleware
 - [ ] 01:04:25 - Conclusion
 - [ ] 01:05:12 - Outro

@@ -40,6 +40,6 @@ understand the fundamentals, this is for you!
   `npm i class-validator class-transformer`
 - [x] 52:45 - Validation
 - [x] 59:13 - Using the CLI to generate CRUD
-- [ ] 01:02:30 - Quick intro to Guards, Interceptors, Middleware
-- [ ] 01:04:25 - Conclusion
-- [ ] 01:05:12 - Outro
+- [x] 01:02:30 - Quick intro to Guards, Interceptors, Middleware
+- [x] 01:04:25 - Conclusion
+- [x] 01:05:12 - Outro

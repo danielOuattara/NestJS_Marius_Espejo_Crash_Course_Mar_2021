@@ -24,15 +24,16 @@ understand the fundamentals, this is for you!
 - [x] 01:36 - Starting a new project
 - [x] 04:38 - 3 Layer architecture
 - [x] 07:40 - Configuring endpoints
-- [x] 09:40 - Creating a new module:  
-  `nest g module users`
-  `nest g controller users`
-  `nest g service users`
+- [x] 09:40 - Creating a new module\
+  `nest g module users`\
+  `nest g controller users`\
+  `nest g service users`\
   `nest g resource products`
 - [x] 13:20 - Parsing URL params
 - [x] 16:18 - Dependency Injection
 - [x] 22:55 - Body parsing, DTOs, and entities
-- [ ] 29:46 - Swagger OpenAPI Docs
+- [x] 29:46 - Swagger OpenAPI Docs\
+  `npm i @nestjs/swagger swagger-ui-express`
 - [ ] 40:35 - Parsing query parameters
 - [ ] 45:30 - Exception and error handling
 - [ ] 50:11 - Pipes intro

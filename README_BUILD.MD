@@ -29,7 +29,7 @@ understand the fundamentals, this is for you!
   `nest g controller users`
   `nest g service users`
   `nest g resource products`
-- [ ] 13:20 - Parsing URL params
+- [x] 13:20 - Parsing URL params
 - [ ] 16:18 - Dependency Injection
 - [ ] 22:55 - Body parsing, DTOs, and entities
 - [ ] 29:13 - Puppy (my dog playing)

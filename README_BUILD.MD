@@ -24,7 +24,11 @@ understand the fundamentals, this is for you!
 - [x] 01:36 - Starting a new project
 - [x] 04:38 - 3 Layer architecture
 - [x] 07:40 - Configuring endpoints
-- [ ] 09:40 - Creating a new module
+- [x] 09:40 - Creating a new module:  
+  `nest g module users`
+  `nest g controller users`
+  `nest g service users`
+  `nest g resource products`
 - [ ] 13:20 - Parsing URL params
 - [ ] 16:18 - Dependency Injection
 - [ ] 22:55 - Body parsing, DTOs, and entities
